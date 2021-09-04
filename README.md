@@ -5,7 +5,7 @@
 ## What does this software do?
 
 - It allows creating a backdoor on the targeted system.
-- It can run system commands and send and receive files.
+- It can run system commands, send and receive files.
 
 ### Usage
 
