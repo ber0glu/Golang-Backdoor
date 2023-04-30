@@ -1,7 +1,5 @@
 # PandasBackdoor
 
-![](https://user-images.githubusercontent.com/81800332/129984665-df524a25-faf2-42a1-8dfe-b946f8ed3173.jpg)
-
 ## What does this software do?
 
 - It allows creating a backdoor on the targeted system.
